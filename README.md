@@ -6,3 +6,4 @@ Terdapat 4 fungsi yaitu;
 2. Pengurangan
 3. Perkalian
 4. Pembagian
+ 
